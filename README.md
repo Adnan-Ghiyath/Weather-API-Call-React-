@@ -11,8 +11,7 @@ A responsive weather application built with React that displays real-time weathe
 ---
 
 ## 📸 Preview
-![Weather App](https://cdn.vectorstock.com/i/1000v/40/42/weather-condition-forecast-cloud-with-rain-vector-44814042.jpg)---
-
+<img src="https://cdn.vectorstock.com/i/1000v/40/42/weather-condition-forecast-cloud-with-rain-vector-44814042.jpg" width="300" />
 ## ✨ Features
 
 - 🌡️ Real-time temperature (current, min, max)
