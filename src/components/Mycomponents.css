@@ -1,0 +1,56 @@
+.Card {
+  width: 100%;
+  background-color: rgb(28 52 91 / 36%);
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0px 11px 1px rgba(0, 0, 0, 0.5);
+  /* direction: rtl; */
+}
+.CityandTime {
+  display: flex;
+  align-items: end;
+  justify-content: start;
+}
+.CardCountener {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.imageIcon {
+  font-size: 200px !important;
+  color: white !important;
+}
+.CONTENTofDEGREE {
+  display: flex;
+  justify-content: space-around;
+}
+.Valuse {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px, 5px;
+}
+.Translatebutton {
+  display: flex;
+  justify-content: start;
+  width: 100%;
+  margin-top: 20px;
+  font-weight: 600 !important;
+  color: #000;
+}
+.cityname {
+  font-weight: 600 !important;
+  margin: 20px !important;
+}
+.DateText {
+  font-weight: 600 !important;
+  margin: 20px !important;
+}
+.Temp_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
