@@ -11,9 +11,7 @@ A responsive weather application built with React that displays real-time weathe
 ---
 
 ## 📸 Preview
-
-![Weather App Preview]([./preview.png](https://weather.omegatower.net/))
-
+(https://cdn.vectorstock.com/i/1000v/40/42/weather-condition-forecast-cloud-with-rain-vector-44814042.jpg)
 ---
 
 ## ✨ Features
