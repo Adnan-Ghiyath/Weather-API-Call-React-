@@ -12,7 +12,7 @@ A responsive weather application built with React that displays real-time weathe
 
 ## 📸 Preview
 
-![Weather App Preview](./preview.png)
+![Weather App Preview]([./preview.png](https://weather.omegatower.net/))
 
 ---
 
@@ -143,7 +143,7 @@ npm run build
 ## 👨‍💻 Author
 
 **Adnan**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Adnan-Ghiyath](https://github.com/Adnan-Ghiyath)
 
 ---
 
